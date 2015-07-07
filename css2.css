@@ -1,0 +1,21 @@
+
+BODY {font-family: Helvetica; background-color: #cc5400}
+H1 {font-size: 38px; Impact, sans-serif; color: a44400; border-bottom: thin black solid;}
+ul {border-radius: 14px; 
+border: 3px solid #773100;}
+table { 
+color: ff7a1b
+font-family: Helvetica;
+width: 1050px; 
+border-collapse: collapse;
+border-spacing: 0;
+}
+td, th { border: 1px solid #ccc; height: 30px }
+th  {
+background: #aa4600;
+font-weight: bold;
+}
+td  {
+background: #fafafa;
+text-align: center;	
+}
