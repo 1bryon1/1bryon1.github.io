@@ -3,22 +3,50 @@
 * {
 	font-size: 24px; /*1em /1rem/100% */
 }
+
+.clearfix {
+	overflow: auto;
+}
 .horizontal-nav {
 	background-color: #242628;
 	margin: 0;
-}
-.horizontal-nav h1,
-	font-size: 1rem;
-	font-weight: normal;
+	padding: 0;
 
-.horizontal-nav a,{
+}
+.horizontal-nav h1 {
+	padding: 0;
+	margin: 0;
 	font-size: 1rem;
 	font-weight: normal;
 }
-.horizontal-nav li{
+.horizontal-nav a {
+	font-size: 1rem;
+	font-weight: normal;
+}
+.horizontal-nav ul {
+	margin: 0;
+	padding: 0;
+}
+.horizontal-nav li {
 	list-style: none;
 }
-.horizontal-nav a{
-	color: :#888888;
+.horizontal-nav a {
+	padding: .8rem .5rem;
+	display: #242628;
 	text-decoration: none;
+	font-weight: normal;
+	font-size: 1rem;
 }
+.horizontal-nav h1 {
+	float: right;
+}
+.horizontal-nav > li:first-child {
+	float: left;
+}
+.horizontal-nav > li:last-child {
+	float: right;
+}
+.horizontal-nav > li:last-child li {
+	float: left;
+}
+.horizontal-nav > div=main 
