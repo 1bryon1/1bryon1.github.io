@@ -1,6 +1,7 @@
 
 	/*  hoizontal nav*/
 * {
+	box-sizing: border-box;
 	font-size: 24px; /*1em /1rem/100% */
 }
 
@@ -49,4 +50,16 @@
 .horizontal-nav > li:last-child li {
 	float: left;
 }
-.horizontal-nav > div=main 
+#main {
+	float: left;
+	width: 70%;
+	padding: 2rem 2rem;
+	background-color: #f0f
+}
+#sidebar {
+	float: left;
+	width: 30%;
+	padding: 2rem 2rem;
+	background-color: #ff0;
+}
+
