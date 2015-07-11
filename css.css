@@ -1,18 +1,17 @@
 
 	body {
-	font-family: Helvetica; background-color: #cc5400
+	background-color: #ff9d4c;
 }
 	h1 {
 	font-size: 24px; 
-	font-family: Impact, sans-serif; 
-	color: #6309a8; 
+	font-family: 'Century Gothic', sans-serif; 
+	color: #7d3900; 
 	border-bottom: thin black solid;
 }
 	ul {border-radius: 14px; 
 	border: 3px solid #;
 }
 	table { 
-	color: #ff1d1d;
 	font-family: Helvetica;
 	width: 1050px; 
 	border-collapse: collapse;
@@ -22,7 +21,7 @@
 	border: 1px solid #ccc; height: 30px 
 }
 	th  {
-	background: #aa4600;
+	background: #7d3900;
 	font-weight: bold;
 }
 	td  {
