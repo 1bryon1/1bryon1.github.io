@@ -9,10 +9,9 @@
 	overflow: auto;
 }
 .horizontal-nav {
-	background-color: #242628;
+	background-color: #1d0715;
 	margin: 0;
 	padding: 0;
-
 }
 .horizontal-nav h1 {
 	padding: 0;
@@ -30,6 +29,9 @@
 }
 .horizontal-nav li {
 	list-style: none;
+	font-size: 1rem;
+	font-family: 'Century Gothic';
+	font-color: #D8d8d8;
 }
 .horizontal-nav a {
 	padding: .8rem .5rem;
@@ -53,13 +55,22 @@
 #main {
 	float: left;
 	width: 70%;
-	padding: 2rem 2rem;
-	background-color: #f0f
+	padding: 1rem 1rem;
+	background-color: #f0f;
+	list-size: 1rem;
+	font-size: 1rem;
+	font-family: 'Century Gothic';
+	font-color: #D8d8d8;
+	opacity: 0.51
 }
 #sidebar {
 	float: left;
 	width: 30%;
-	padding: 2rem 2rem;
+	padding: 1rem 1rem;
 	background-color: #ff0;
+	list-style: none;
+	font-size: 1rem;
+	font-family: 'Century Gothic';
+	font-color: #D8d8d8;
+	opacity: 0.51;
 }
-
