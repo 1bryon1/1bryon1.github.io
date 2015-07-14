@@ -5,13 +5,13 @@
 	font-size: 24px; /*1em /1rem/100% */
 }
 body {
-	background-color: #93643a
+	background-color: #93643a;
 }
 .clearfix {
 	overflow: auto;
 }
 .horizontal-nav {
-	background-color: white;
+	background-color: #93643a;
 	margin: 0;
 	padding: 0;
 }
@@ -33,7 +33,7 @@ body {
 	list-style: none;
 	font-size: 1rem;
 	font-family: 'Century Gothic';
-	font-color: #93643a;
+	font-color: #2f1600;
 }
 .horizontal-nav li a:hover {
 	color: white;

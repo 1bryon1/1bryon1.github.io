@@ -1,5 +1,5 @@
 	body {
-	background-color: #93643a
+	background-color: #93643a;
 }
 	h1 {
 	font-size: 24px; 
@@ -21,13 +21,13 @@
 	border: 1px solid #ccc; height: 30px 
 }
 	th  {
-	background: #7d3900;
+	background: #93643a;
 	font-weight: bold;
 }
 	td  {
-	background: #fafafa;
+	background: #93643a;
 	text-align: center;	
 }
   	table { 
-	margin: 10px 50px 0px 75px;
+	margin: 10px 50px 0px 100px;
 }
