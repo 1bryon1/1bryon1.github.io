@@ -1,5 +1,5 @@
-/* navigation */
-	/*  hoizontal nav*/
+ /* navigation */
+	/*  horizontal nav*/
 * {
 	box-sizing: border-box;
 	font-size: 24px; /*1em /1rem/100% */
@@ -32,6 +32,9 @@
 	font-size: 1rem;
 	font-family: 'Century Gothic';
 	font-color: #D8d8d8;
+}
+.horizontal-nav li a:hover {
+	color: white;
 }
 .horizontal-nav a {
 	padding: .8rem .5rem;
