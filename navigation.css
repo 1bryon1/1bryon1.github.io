@@ -1,4 +1,4 @@
-
+/* navigation */
 	/*  hoizontal nav*/
 * {
 	box-sizing: border-box;
@@ -64,7 +64,7 @@
 	opacity: 0.51
 }
 #sidebar {
-	float: left;
+	float: right;
 	width: 30%;
 	padding: 1rem 1rem;
 	background-color: #ff0;

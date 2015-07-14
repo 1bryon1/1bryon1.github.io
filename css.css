@@ -1,11 +1,10 @@
-
 	body {
-	background-color: #ff9d4c;
+	background-color: #93643a
 }
 	h1 {
 	font-size: 24px; 
 	font-family: 'Century Gothic', sans-serif; 
-	color: #7d3900; 
+	color: #BA8A5F; 
 	border-bottom: thin black solid;
 }
 	ul {border-radius: 14px; 
@@ -16,6 +15,7 @@
 	width: 1050px; 
 	border-collapse: collapse;
 	border-spacing: 0;
+	background-color: #93643a;
 }
 	td, th { 
 	border: 1px solid #ccc; height: 30px 
